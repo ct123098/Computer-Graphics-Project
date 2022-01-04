@@ -105,13 +105,13 @@
 
 # 效果展示
 
-![image](figures/fig1.jpg){
+![image](figures/fig1.jpg)
 
-![image](figures/fig2.jpg){width="99%"}
+![image](figures/fig2.jpg)
 
-![image](figures/fig3.jpg){width="99%"}
+![image](figures/fig3.jpg)
 
-![image](figures/fig4.jpg){width="99%"}
+![image](figures/fig4.jpg)
 
 # 参考文献 
 
