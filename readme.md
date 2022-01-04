@@ -115,8 +115,6 @@
 
 # 参考文献 
 
-` [1] Kevin Beason. smallpt: Global illumination in 99 lines of c++. http://www.kevinbeason.com/smallpt/. `
-
-\[2\] Toshiya Hachisuka and Henrik Wann Jensen. Stochastic progressive photon mapping. ACM Transactions on Graphics (TOG), 28(5):141, 2009.
-
-\[3\] Toshiya Hachisuka, Shinji Ogaki, and Henrik Wann Jensen. Progressive photon mapping. In ACM Transactions on Graphics (TOG), volume 27, page 130. ACM, 2008.
+- [1] Kevin Beason. smallpt: Global illumination in 99 lines of c++. http://www.kevinbeason.com/smallpt/.
+- [2] Toshiya Hachisuka and Henrik Wann Jensen. Stochastic progressive photon mapping. ACM Transactions on Graphics (TOG), 28(5):141, 2009.
+- [3] Toshiya Hachisuka, Shinji Ogaki, and Henrik Wann Jensen. Progressive photon mapping. In ACM Transactions on Graphics (TOG), volume 27, page 130. ACM, 2008.
