@@ -1,3 +1,5 @@
+![image](figures/preview.jpg)
+
 # 代码整体框架
 
     .
@@ -103,7 +105,7 @@
 
 # 效果展示
 
-![image](figures/fig1.jpg){width="99%"}
+![image](figures/fig1.jpg){
 
 ![image](figures/fig2.jpg){width="99%"}
 
